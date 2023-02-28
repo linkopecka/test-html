@@ -1,0 +1,9 @@
+
+a:link {color: blueviolet;}
+a:hover {color: brown;}
+a:active {color: black;}
+a:link {text-decoration: none;}
+a {display: block;}
+ul {list-style-type: none;}
+li {display: inline;}
+
