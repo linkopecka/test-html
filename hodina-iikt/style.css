@@ -1,9 +1,23 @@
 
-a:link {color: blueviolet;}
+/* a:link {color: blueviolet;}
 a:hover {color: brown;}
 a:active {color: black;}
 a:link {text-decoration: none;}
 a {display: block;}
 ul {list-style-type: none;}
-li {display: inline;}
+li {display: inline;} */
+*{margin: 0;}
+li {font-size: 20px; float: left; padding: 10px; background-color: black;}
+li:hover {background-color: rgb(85, 84, 84);}
+ul {list-style-type: none; overflow: hidden;}
+.menu {background-color: black;}
+a {color: white; display: block;}
+a:link {text-decoration: none;}
+.dropdown-content {display: none;}
+
+
+
+
+
+
 
